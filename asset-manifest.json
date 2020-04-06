@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/portfolio_2020/static/css/main.90aba193.chunk.css",
-    "main.js": "/portfolio_2020/static/js/main.b7d8d8ed.chunk.js",
-    "main.js.map": "/portfolio_2020/static/js/main.b7d8d8ed.chunk.js.map",
+    "main.js": "/portfolio_2020/static/js/main.64e95487.chunk.js",
+    "main.js.map": "/portfolio_2020/static/js/main.64e95487.chunk.js.map",
     "runtime-main.js": "/portfolio_2020/static/js/runtime-main.70f8cb65.js",
     "runtime-main.js.map": "/portfolio_2020/static/js/runtime-main.70f8cb65.js.map",
     "static/css/2.257c7e99.chunk.css": "/portfolio_2020/static/css/2.257c7e99.chunk.css",
-    "static/js/2.70c37d05.chunk.js": "/portfolio_2020/static/js/2.70c37d05.chunk.js",
-    "static/js/2.70c37d05.chunk.js.map": "/portfolio_2020/static/js/2.70c37d05.chunk.js.map",
+    "static/js/2.307716c8.chunk.js": "/portfolio_2020/static/js/2.307716c8.chunk.js",
+    "static/js/2.307716c8.chunk.js.map": "/portfolio_2020/static/js/2.307716c8.chunk.js.map",
     "index.html": "/portfolio_2020/index.html",
-    "precache-manifest.daddbe4d3d7adb928f0ffcb73ec61cf0.js": "/portfolio_2020/precache-manifest.daddbe4d3d7adb928f0ffcb73ec61cf0.js",
+    "precache-manifest.65567ee42e837ee48c3cf56a2d15b7bb.js": "/portfolio_2020/precache-manifest.65567ee42e837ee48c3cf56a2d15b7bb.js",
     "service-worker.js": "/portfolio_2020/service-worker.js",
     "static/css/2.257c7e99.chunk.css.map": "/portfolio_2020/static/css/2.257c7e99.chunk.css.map",
     "static/css/main.90aba193.chunk.css.map": "/portfolio_2020/static/css/main.90aba193.chunk.css.map",
-    "static/js/2.70c37d05.chunk.js.LICENSE.txt": "/portfolio_2020/static/js/2.70c37d05.chunk.js.LICENSE.txt",
+    "static/js/2.307716c8.chunk.js.LICENSE.txt": "/portfolio_2020/static/js/2.307716c8.chunk.js.LICENSE.txt",
     "static/media/Nay_Resume.pdf": "/portfolio_2020/static/media/Nay_Resume.1d3ba590.pdf",
     "static/media/footer-pic.png": "/portfolio_2020/static/media/footer-pic.069accf3.png",
     "static/media/portfolio-1.png": "/portfolio_2020/static/media/portfolio-1.b44b14cf.png",
@@ -27,8 +27,8 @@
   "entrypoints": [
     "static/js/runtime-main.70f8cb65.js",
     "static/css/2.257c7e99.chunk.css",
-    "static/js/2.70c37d05.chunk.js",
+    "static/js/2.307716c8.chunk.js",
     "static/css/main.90aba193.chunk.css",
-    "static/js/main.b7d8d8ed.chunk.js"
+    "static/js/main.64e95487.chunk.js"
   ]
 }
