@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/portfolio_2020/static/css/main.b4d7c20f.chunk.css",
+    "main.js": "/portfolio_2020/static/js/main.556e6a93.chunk.js",
+    "main.js.map": "/portfolio_2020/static/js/main.556e6a93.chunk.js.map",
+    "runtime-main.js": "/portfolio_2020/static/js/runtime-main.70f8cb65.js",
+    "runtime-main.js.map": "/portfolio_2020/static/js/runtime-main.70f8cb65.js.map",
+    "static/css/2.257c7e99.chunk.css": "/portfolio_2020/static/css/2.257c7e99.chunk.css",
+    "static/js/2.70c37d05.chunk.js": "/portfolio_2020/static/js/2.70c37d05.chunk.js",
+    "static/js/2.70c37d05.chunk.js.map": "/portfolio_2020/static/js/2.70c37d05.chunk.js.map",
+    "index.html": "/portfolio_2020/index.html",
+    "precache-manifest.4930c7ef85021e46fcf0c34f7a39f1da.js": "/portfolio_2020/precache-manifest.4930c7ef85021e46fcf0c34f7a39f1da.js",
+    "service-worker.js": "/portfolio_2020/service-worker.js",
+    "static/css/2.257c7e99.chunk.css.map": "/portfolio_2020/static/css/2.257c7e99.chunk.css.map",
+    "static/css/main.b4d7c20f.chunk.css.map": "/portfolio_2020/static/css/main.b4d7c20f.chunk.css.map",
+    "static/js/2.70c37d05.chunk.js.LICENSE.txt": "/portfolio_2020/static/js/2.70c37d05.chunk.js.LICENSE.txt",
+    "static/media/Nay_Resume.pdf": "/portfolio_2020/static/media/Nay_Resume.1d3ba590.pdf",
+    "static/media/footer-pic.gif": "/portfolio_2020/static/media/footer-pic.c4837302.gif",
+    "static/media/portfolio-1.png": "/portfolio_2020/static/media/portfolio-1.b44b14cf.png",
+    "static/media/portfolio-2.png": "/portfolio_2020/static/media/portfolio-2.92bb57b9.png",
+    "static/media/portfolio-3.png": "/portfolio_2020/static/media/portfolio-3.b6d28e1c.png",
+    "static/media/portfolio-hero.jpg": "/portfolio_2020/static/media/portfolio-hero.748d9b47.jpg",
+    "static/media/portfolio-logo-2.png": "/portfolio_2020/static/media/portfolio-logo-2.deae66e6.png",
+    "static/media/portfolio-logo-ext.png": "/portfolio_2020/static/media/portfolio-logo-ext.3ad1112d.png",
+    "static/media/portfolio-self.png": "/portfolio_2020/static/media/portfolio-self.585fee66.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.70f8cb65.js",
+    "static/css/2.257c7e99.chunk.css",
+    "static/js/2.70c37d05.chunk.js",
+    "static/css/main.b4d7c20f.chunk.css",
+    "static/js/main.556e6a93.chunk.js"
+  ]
+}
