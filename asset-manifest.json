@@ -1,20 +1,20 @@
 {
   "files": {
     "main.css": "/portfolio_2020/static/css/main.90aba193.chunk.css",
-    "main.js": "/portfolio_2020/static/js/main.64e95487.chunk.js",
-    "main.js.map": "/portfolio_2020/static/js/main.64e95487.chunk.js.map",
+    "main.js": "/portfolio_2020/static/js/main.16a2baaa.chunk.js",
+    "main.js.map": "/portfolio_2020/static/js/main.16a2baaa.chunk.js.map",
     "runtime-main.js": "/portfolio_2020/static/js/runtime-main.70f8cb65.js",
     "runtime-main.js.map": "/portfolio_2020/static/js/runtime-main.70f8cb65.js.map",
     "static/css/2.257c7e99.chunk.css": "/portfolio_2020/static/css/2.257c7e99.chunk.css",
-    "static/js/2.307716c8.chunk.js": "/portfolio_2020/static/js/2.307716c8.chunk.js",
-    "static/js/2.307716c8.chunk.js.map": "/portfolio_2020/static/js/2.307716c8.chunk.js.map",
+    "static/js/2.9342cdf7.chunk.js": "/portfolio_2020/static/js/2.9342cdf7.chunk.js",
+    "static/js/2.9342cdf7.chunk.js.map": "/portfolio_2020/static/js/2.9342cdf7.chunk.js.map",
     "index.html": "/portfolio_2020/index.html",
-    "precache-manifest.65567ee42e837ee48c3cf56a2d15b7bb.js": "/portfolio_2020/precache-manifest.65567ee42e837ee48c3cf56a2d15b7bb.js",
+    "precache-manifest.5bc39f2d48b1b82110cda718c2588625.js": "/portfolio_2020/precache-manifest.5bc39f2d48b1b82110cda718c2588625.js",
     "service-worker.js": "/portfolio_2020/service-worker.js",
     "static/css/2.257c7e99.chunk.css.map": "/portfolio_2020/static/css/2.257c7e99.chunk.css.map",
     "static/css/main.90aba193.chunk.css.map": "/portfolio_2020/static/css/main.90aba193.chunk.css.map",
-    "static/js/2.307716c8.chunk.js.LICENSE.txt": "/portfolio_2020/static/js/2.307716c8.chunk.js.LICENSE.txt",
-    "static/media/Nay_Resume.pdf": "/portfolio_2020/static/media/Nay_Resume.1d3ba590.pdf",
+    "static/js/2.9342cdf7.chunk.js.LICENSE.txt": "/portfolio_2020/static/js/2.9342cdf7.chunk.js.LICENSE.txt",
+    "static/media/Nay_Resume.pdf": "/portfolio_2020/static/media/Nay_Resume.d57aa136.pdf",
     "static/media/footer-pic.png": "/portfolio_2020/static/media/footer-pic.069accf3.png",
     "static/media/portfolio-1.png": "/portfolio_2020/static/media/portfolio-1.b44b14cf.png",
     "static/media/portfolio-2.png": "/portfolio_2020/static/media/portfolio-2.92bb57b9.png",
@@ -27,8 +27,8 @@
   "entrypoints": [
     "static/js/runtime-main.70f8cb65.js",
     "static/css/2.257c7e99.chunk.css",
-    "static/js/2.307716c8.chunk.js",
+    "static/js/2.9342cdf7.chunk.js",
     "static/css/main.90aba193.chunk.css",
-    "static/js/main.64e95487.chunk.js"
+    "static/js/main.16a2baaa.chunk.js"
   ]
 }
